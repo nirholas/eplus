@@ -1,0 +1,23 @@
+{
+	"name": "eplus",
+	"short_name": "eplus",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"description": "A simple, lightweight, and open LLM playground.",
+	"icons": [
+		{
+			"src": "macos/icon.png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "android/android-launchericon-512-512.png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "ios/180.png",
+			"sizes": "180x180"
+		}
+	]
+}
