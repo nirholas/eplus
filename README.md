@@ -53,3 +53,7 @@ Go back to https://eplus.chat, head over to Settings -> Tool calling, and click 
 1. Clone the repository
 2. Install and start the client: `npm i && npm run dev`. The client will be accessible at http://localhost:5173
 3. Install and start the server: `cd server && go generate ./... && go build && ./server -password foobar`. The server will be accessible at http://localhost:8081. You can plug this into the server address in the chat UI along with the password you selected.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/eplus&type=Date)](https://www.star-history.com/#nirholas/eplus&Date)
