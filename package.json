@@ -13,7 +13,7 @@
 		"@sveltejs/vite-plugin-svelte": "^3.0.1",
 		"@tailwindcss/typography": "^0.5.10",
 		"autoprefixer": "^10.4.16",
-		"postcss": "^8.4.32",
+		"postcss": "^8.5.29",
 		"postcss-load-config": "^5.0.2",
 		"prettier": "^3.2.5",
 		"prettier-plugin-svelte": "^3.2.3",
