@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "eplus"
+abstract: "Fast, light, open-source chat UI with bring-your-own API keys for Ollama, OpenRouter, OpenAI, Anthropic, Mistral and Groq."
+repository-code: "https://github.com/nirholas/eplus"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

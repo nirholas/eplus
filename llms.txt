@@ -1,0 +1,22 @@
+# eplus
+
+> Fast, light, open-source chat UI with bring-your-own API keys for Ollama, OpenRouter, OpenAI, Anthropic, Mistral and Groq.
+
+eplus is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/eplus/blob/HEAD/README.md): install, usage and reference
+- [How to install?](https://github.com/nirholas/eplus/blob/HEAD/README.md#how-to-install)
+- [Single binary:](https://github.com/nirholas/eplus/blob/HEAD/README.md#single-binary)
+- [AGENTS.md](https://github.com/nirholas/eplus/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/eplus/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/eplus)
+- [Issues](https://github.com/nirholas/eplus/issues)
+- [Discussions](https://github.com/nirholas/eplus/discussions)
+- [Homepage](https://nirholas.github.io/eplus/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
